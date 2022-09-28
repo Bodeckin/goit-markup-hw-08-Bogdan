@@ -1,4 +1,5 @@
 @import './utils/normalize';
+@import './base/fonts';
 @import './utils/variables';
 @import './utils/mixin';
 @import './utils/placeholder';
@@ -19,6 +20,7 @@
 @import './components/footer/footer-address';
 @import './components/footer/footer-social-list';
 @import './components/footer/footer-form';
+@import './components/mobile-menu';
 
 @import './layout/hero';
 @import './layout/section-features';
